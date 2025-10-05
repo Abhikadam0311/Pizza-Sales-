@@ -1,0 +1,40 @@
+Here’s a concise *summary for your GitHub README* for the *Pizza Sales Analysis Power BI project*:
+
+---
+
+## 🍕 Pizza Sales Analysis – Summary
+
+The *Pizza Sales Analysis Project* uses *Power BI* to analyze pizza sales data and provide actionable insights on revenue, customer preferences, and product performance. The dashboard visualizes sales trends, best-selling pizzas, and order patterns to support *data-driven business decisions* for restaurants and food delivery services.
+
+### 🔍 Key Highlights
+
+* Identified *top-selling pizza types and sizes* contributing most to revenue.
+* Analyzed *daily, weekly, and seasonal sales trends* to find peak order periods.
+* Studied *average order value (AOV)* and quantity sold per category.
+* Evaluated *customer preferences* to optimize menu offerings and promotions.
+* Provided recommendations for *combo offers and targeted marketing campaigns*.
+
+### 📊 Key Metrics (KPIs)
+
+* Total Revenue
+* Total Orders
+* Average Order Value (AOV)
+* Total Quantity Sold
+* Top-Selling Pizza Types
+* Sales by Pizza Size
+* Revenue by Category
+
+### 💡 Insights
+
+* *Classic and Supreme pizzas* are the most popular.
+* *Large-sized pizzas* generate the highest revenue; *medium sizes* have the most frequent orders.
+* *Friday and Saturday evenings* have peak sales volumes.
+* *Holiday seasons* significantly boost orders.
+
+### 🎯 Conclusion
+
+The *Pizza Sales Analysis Dashboard* transforms raw sales data into actionable insights, enabling restaurants to optimize *menu planning, promotions, and inventory management*, ultimately improving profitability and customer satisfaction.
+
+---
+
+If you want, I can also *expand this into a full GitHub README* with *project structure, dashboard features, and sample DAX measures* ready for upload.
